@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# Sudoku-Grid-Master
 Sudoku solver using backtracking algorithm in C++.
 
 # Algorithm Overview:
